@@ -9,12 +9,18 @@ League of Analise é um conjunto de dashboards que visa maximizar a performance 
 <!--ts-->
    * [Introdução](#Introducao)
    * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Status do projeto](#status-do-projeto)
    * [Informações do projeto](#informacoes-do-projeto)
       * [Variáveis de ambiente](#variaveis-de-ambiente)
       * [Portas de acesso](#portas-de-acesso)
       * [Dependências](#dependencias)
+   * [Autores](#autores)
+   
       
 <!--te-->
+## Status do projeto
+
+League of Analise está em construção
 
 ## Informações do projeto
 
@@ -60,9 +66,11 @@ League of Analise é um conjunto de dashboards que visa maximizar a performance 
 ```bash
 $ docker-compose up
 ```
-## Passo 3: Iniciar o metabase
+#### Passo 3: Iniciar o metabase
 
-## Observações:
+#### Observações:
 
 - O MySQL está utilizando a porta 3306 por padrão, se necessário, isso pode ser alterado no arquivo `docker-compose.yml`
 - Se encontrar algum erro com o código 87, tente iniciar o docker-compose pelo git bash
+
+## Autores
