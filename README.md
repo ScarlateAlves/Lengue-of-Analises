@@ -75,12 +75,12 @@ $ docker-compose up
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="C:\Users\thiag\Desktop\gitresilia\League-of-Analise\img\thiago.jpeg" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
+      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHR-AZMVpN9iA/profile-displayphoto-shrink_400_400/0/1610584257602?e=1616025600&v=beta&t=-nYa_s1xQjXgPNRmpIPf1EWWFsXH3Px7dHmpzEMj-2I" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
       </a>
       <br />
-      <a href="https://github.com/thiago-tga" title="GitHub">GitHub
-      <a href="https://www.instagram.com/thiaguio/" title="instagram">Instagram
-      <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">LinkedIn
+      <a href="https://github.com/thiago-tga" title="GitHub">💻
+      <a href="https://www.instagram.com/thiaguio/" title="instagram">📷
+      <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">💼
       </a>
       </td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/4669899?s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Cleiton Souza</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
