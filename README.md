@@ -18,7 +18,7 @@ League of Analise é um conjunto de dashboards que visa maximizar a performance 
 <!--te-->
 ## Status do projeto
 
-League of Analise está em construção
+🚧League of Analise está em construção🚧
 
 ## Informações do projeto
 
@@ -65,6 +65,10 @@ League of Analise está em construção
 $ docker-compose up
 ```
 #### Passo 3: Iniciar o metabase
+``` navegador
+Localhost:3000
+```
+#### Passo 4: Configure o metabase com as variáveis de ambiente descritas na tabela acima
 
 #### Observações:
 
@@ -74,15 +78,6 @@ $ docker-compose up
 ## Autores
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHR-AZMVpN9iA/profile-displayphoto-shrink_400_400/0/1610584257602?e=1616025600&v=beta&t=-nYa_s1xQjXgPNRmpIPf1EWWFsXH3Px7dHmpzEMj-2I" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/thiago-tga" title="GitHub">💻
-      <a href="https://www.instagram.com/thiaguio/" title="instagram">📷
-      <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">💼
-      </a>
-      </td>
     <td align="center">
       <a href="https://github.com/ericwdw"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGpNM1tpAROkg/profile-displayphoto-shrink_800_800/0/1610571216667?e=1616025600&v=beta&t=VKiTo1YaXKHklmhfhyom6S4SIeqIGlc-v7lD28Iggh4" width="100px;" alt=""/><br /><sub><b>Eric Abrunhosa</b></sub>
       </a>
@@ -117,6 +112,15 @@ $ docker-compose up
       <a href="https://github.com/ScarlateAlves" title="GitHub">💻
       <a href="https://www.instagram.com/scaralves10/" title="instagram">📷
       <a href="https://www.linkedin.com/in/scarlate-alves-518ab5127/" title="linkedin">💼
+      </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHR-AZMVpN9iA/profile-displayphoto-shrink_400_400/0/1610584257602?e=1616025600&v=beta&t=-nYa_s1xQjXgPNRmpIPf1EWWFsXH3Px7dHmpzEMj-2I" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/thiago-tga" title="GitHub">💻
+      <a href="https://www.instagram.com/thiaguio/" title="instagram">📷
+      <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">💼
       </a>
       </td>
   </tr>
