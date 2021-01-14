@@ -93,7 +93,7 @@ $ docker-compose up
       </a>
       </td>
       <td align="center">
-      <a href="https://github.com/araujo-gui"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFWSiTeq1PHtw/profile-displayphoto-shrink_800_800/0/1607606279850?e=1616025600&v=beta&t=2yNfgCbGVjuPGmri2ee-B7eimvngJ9VO5kDovgzPN38" width="100px;" alt=""/><br /><sub><b>Guilhermina Araujo</b></sub>
+      <a href="https://github.com/araujo-gui"><img style="border-radius: 50%;" src="https://camo.githubusercontent.com/5335f3fc40c093d212524e170d6df7f8e4372eac856ddc80465b3f9a1840159a/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f433445303341514657536954657131504874772f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f302f313630373630363237393835303f653d3136313630323536303026763d6265746126743d32794e6667436247566a7550476d72693265652d423765696d766e674a39564f356b446f76677a504e3338" width="100px;" alt=""/><br /><sub><b>Guilhermina Araujo</b></sub>
       </a>
       <br />
       <a href="https://github.com/araujo-gui" title="GitHub">💻
