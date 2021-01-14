@@ -83,14 +83,41 @@ $ docker-compose up
       <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">💼
       </a>
       </td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/4669899?s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Cleiton Souza</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/861751?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Robson Marques</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/16831337?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Claudio Orlandi</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/39345247?s=460&u=cdff2624a327a43e2765112a54e966a06eac6d79&v=4" width="100px;" alt=""/><br /><sub><b>Joseph Oliveira</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/10366880?s=460&u=59e93e1752e9d2ece4b7d8e129d60caba9c94207&v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Rodz</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/37725197?s=460&u=446439436524c37f66e41f35b607dbb70358d5e4&v=4" width="100px;" alt=""/><br /><sub><b>Vinícios Fraga</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/26551306?s=460&u=18446655ccae6c2a29eb177a104ecf32f029aa3a&v=4" width="100px;" alt=""/><br /><sub><b>Hugo Duarte</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a>  <a href="https://blog.rocketseat.com.br/" title="Blog">🌐</a></td>
+    <td align="center">
+      <a href="https://github.com/ericwdw"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGpNM1tpAROkg/profile-displayphoto-shrink_800_800/0/1610571216667?e=1616025600&v=beta&t=VKiTo1YaXKHklmhfhyom6S4SIeqIGlc-v7lD28Iggh4" width="100px;" alt=""/><br /><sub><b>Eric Abrunhosa</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/ericwdw" title="GitHub">💻
+      <a href="https://www.instagram.com/abrunhosaeric/" title="instagram">📷
+      <a href="https://www.linkedin.com/in/eric-gomes-silva-abrunhosa-119176114/" title="linkedin">💼
+      </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/araujo-gui"><img style="border-radius: 50%;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-15/e35/128150499_2813583022219207_7403888593573471144_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=3wTqbaWNWtMAX_Lt3BK&tp=1&oh=3c290cb720da417bae5ca982f4491af8&oe=6028F0CA" width="100px;" alt=""/><br /><sub><b>Guilhermina Araujo</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/araujo-gui" title="GitHub">💻
+      <a href="https://www.instagram.com/guiiaaraujo_/" title="instagram">📷
+      <a href=" https://www.linkedin.com/in/guilhermina-ara%C3%BAjo-b780b5108/" title="linkedin">💼
+      </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/HenryLucena"><img style="border-radius: 50%;" src="blob:https://web.whatsapp.com/d0e20c82-5e72-410c-9f8e-1a7d27c89533" width="100px;" alt=""/><br /><sub><b>Henryque Lucena</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/HenryLucena" title="GitHub">💻
+      <a href="https://www.facebook.com/henryque.lucena" title="instagram">📷
+      <a href="https://www.linkedin.com/in/henryque-porto-6486a91b0" title="linkedin">💼
+      </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/ScarlateAlves"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/71666563?s=460&u=7eaab4581687f896fa8c83353b1cd18b83791002&v=4" width="100px;" alt=""/><br /><sub><b>Scarlet Alves</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/ScarlateAlves" title="GitHub">💻
+      <a href="https://www.instagram.com/scaralves10/" title="instagram">📷
+      <a href="https://www.linkedin.com/in/scarlate-alves-518ab5127/" title="linkedin">💼
+      </a>
+      </td>
   </tr>
 </table>
