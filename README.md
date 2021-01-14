@@ -93,7 +93,7 @@ $ docker-compose up
       </a>
       </td>
       <td align="center">
-      <a href="https://github.com/araujo-gui"><img style="border-radius: 50%;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-15/e35/128150499_2813583022219207_7403888593573471144_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=3wTqbaWNWtMAX_Lt3BK&tp=1&oh=3c290cb720da417bae5ca982f4491af8&oe=6028F0CA" width="100px;" alt=""/><br /><sub><b>Guilhermina Araujo</b></sub>
+      <a href="https://github.com/araujo-gui"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFWSiTeq1PHtw/profile-displayphoto-shrink_800_800/0/1607606279850?e=1616025600&v=beta&t=2yNfgCbGVjuPGmri2ee-B7eimvngJ9VO5kDovgzPN38" width="100px;" alt=""/><br /><sub><b>Guilhermina Araujo</b></sub>
       </a>
       <br />
       <a href="https://github.com/araujo-gui" title="GitHub">💻
@@ -102,7 +102,7 @@ $ docker-compose up
       </a>
       </td>
       <td align="center">
-      <a href="https://github.com/HenryLucena"><img style="border-radius: 50%;" src="blob:https://web.whatsapp.com/d0e20c82-5e72-410c-9f8e-1a7d27c89533" width="100px;" alt=""/><br /><sub><b>Henryque Lucena</b></sub>
+      <a href="https://github.com/HenryLucena"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHy-lpbJs0xVg/profile-displayphoto-shrink_800_800/0/1605743627751?e=1616025600&v=beta&t=615P22A7jKkqP511gOaMR5ArWPKLITelMMklolVco4w" width="100px;" alt=""/><br /><sub><b>Henryque Lucena</b></sub>
       </a>
       <br />
       <a href="https://github.com/HenryLucena" title="GitHub">💻
