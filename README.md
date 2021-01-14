@@ -93,7 +93,7 @@ Localhost:3000
       <br />
       <a href="https://github.com/araujo-gui" title="GitHub">💻
       <a href="https://www.instagram.com/guiiaaraujo_/" title="instagram">📷
-      <a href=" https://www.linkedin.com/in/guilhermina-ara%C3%BAjo-b780b5108/" title="linkedin">💼
+      <a href="https://www.linkedin.com/in/guilhermina-ara%C3%BAjo-b780b5108/" title="linkedin">💼
       </a>
       </td>
       <td align="center">
